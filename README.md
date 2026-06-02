@@ -15,7 +15,8 @@ actionable insights on trial success rates.
 
 ```
 ├── data/
-│   └── SampleDateExtract.xlsx        
+│   └── SampleDateExtract.xlsx
+|   └── SampleDateExtract.xlsx        
 ├── part1a_data_quality.ipynb         
 ├── part1b_cleaning_schema.ipynb      
 ├── part2_analysis.ipynb              
